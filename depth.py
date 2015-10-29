@@ -18,7 +18,6 @@ from vispy import app
 from vispy.util.ptime import time
 from vispy.gloo.util import _screenshot
 from vispy.util.transforms import perspective, translate, rotate, frustum
-from volumit.volumit2d.scape2d import points_depth
 from OpenGL import GL
 import sklearn.neighbors as skneighbors
 import cam
