@@ -1,0 +1,4 @@
+*.pyc
+mesh.mtl
+mesh.obj
+mesh.ply
